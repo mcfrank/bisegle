@@ -1,2 +1,0 @@
-Individual data 
-subject 	 accuracy-C 	 accuracy-INC 	 RT-C 	 RT-INC 
